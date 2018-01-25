@@ -1,0 +1,170 @@
+0,122,Alexandria
+1,1,Algonquin Park (Brent)
+2,29,Algonquin Park (Lake of Two Rivers)
+3,114,Alliston
+4,30,Apsley
+5,111,Armstrong
+6,148,Atikokan
+7,164,Attawapiskat
+8,102,Bancroft
+9,151,Barrie
+10,133,Barry's Bay
+11,3,Belleville
+12,124,Big Trout Lake
+13,21,Blind River
+14,9,Bracebridge
+15,4,Brampton
+16,86,Brantford
+17,8,Brockville
+18,31,Burk's Falls
+19,95,Burlington
+20,32,Caledon
+21,81,Cambridge
+22,91,Chapleau
+23,11,Chatham-Kent
+24,75,Cobourg
+25,33,Cochrane
+26,150,Collingwood
+27,152,Cornwall
+28,83,Deep River
+29,34,Dorion
+30,72,Dryden
+31,35,Dunchurch
+32,36,Dundalk
+33,167,Ear Falls
+34,136,Earlton
+35,170,Elliot Lake
+36,173,Fort Albany
+37,12,Fort Erie
+38,159,Fort Frances
+39,171,Fort Severn
+40,90,Gananoque
+41,160,Goderich
+42,37,Gogama
+43,144,Gore Bay
+44,38,Gravenhurst
+45,39,Greater Napanee
+46,40,Greater Sudbury
+47,153,Greenstone (Beardmore)
+48,70,Greenstone (Geraldton)
+49,97,Greenstone (Nakina)
+50,5,Guelph
+51,41,Gull Bay
+52,42,Haldimand County
+53,165,Haliburton
+54,68,Halton Hills
+55,77,Hamilton
+56,71,Hawkesbury
+57,73,Hearst
+58,78,Hornepayne
+59,88,Huntsville
+60,156,Ignace
+61,145,Kakabeka Falls
+62,43,Kaladar
+63,142,Kapuskasing
+64,44,Kawartha Lakes (Fenelon Falls)
+65,168,Kawartha Lakes (Lindsay)
+66,74,Kemptville
+67,96,Kenora
+68,146,Killarney
+69,28,Kincardine
+70,69,Kingston
+71,76,Kirkland Lake
+72,82,Kitchener-Waterloo
+73,45,Lake Superior (Provincial Park)
+74,46,Lambton Shores
+75,87,Lansdowne House
+76,23,Leamington
+77,47,Lincoln
+78,137,London
+79,108,Marathon
+80,85,Markham
+81,169,Midland
+82,48,Mine Centre
+83,24,Mississauga
+84,163,Montreal River Harbour
+85,113,Moosonee
+86,92,Morrisburg
+87,89,Mount Forest
+88,93,Muskoka
+89,49,New Tecumseth
+90,25,Newmarket
+91,125,Niagara Falls
+92,26,Nipigon
+93,50,Norfolk
+94,139,North Bay
+95,51,North Perth
+96,79,Oakville
+97,101,Ogoki
+98,140,Orangeville
+99,13,Orillia
+100,117,Oshawa
+101,118,Ottawa (Kanata - Orléans)
+102,52,Ottawa (Richmond - Metcalfe)
+103,7,Owen Sound
+104,53,Oxtongue Lake
+105,103,Parry Sound
+106,99,Peawanuck
+107,131,Pembroke
+108,112,Petawawa
+109,121,Peterborough
+110,54,Pickering
+111,120,Pickle Lake
+112,55,Pikangikum
+113,56,Port Carling
+114,80,Port Colborne
+115,19,Port Elgin
+116,149,Port Perry
+117,27,Prince Edward (Picton)
+118,57,Quinte West
+119,104,Red Lake
+120,58,Renfrew
+121,59,Richmond Hill
+122,172,Rodney
+123,141,Rondeau (Provincial Park)
+124,105,Sachigo Lake
+125,129,Sandy Lake
+126,147,Sarnia
+127,60,Saugeen Shores
+128,162,Sault Ste. Marie
+129,134,Savant Lake
+130,61,Sharbot Lake
+131,84,Shelburne
+132,161,Simcoe
+133,135,Sioux Lookout
+134,166,Sioux Narrows
+135,106,Smiths Falls
+136,62,South Bruce Peninsula
+137,107,St. Catharines
+138,98,St. Thomas
+139,115,Stirling
+140,116,Stratford
+141,18,Strathroy
+142,174,Sudbury (Greater)
+143,63,Sydenham
+144,22,Temiskaming Shores
+145,123,Terrace Bay
+146,100,Thunder Bay
+147,17,Tillsonburg
+148,127,Timmins
+149,157,Tobermory
+150,143,Toronto
+151,128,Toronto Island
+152,126,Trenton
+153,154,Upsala
+154,64,Vaughan
+155,109,Vineland
+156,16,Walkerton
+157,138,Wawa
+158,132,Webequie
+159,14,Welland
+160,65,West Nipissing
+161,66,Westport
+162,119,Whitby
+163,67,White River
+164,130,Wiarton
+165,155,Winchester
+166,94,Windsor
+167,110,Wingham
+168,15,Woodstock
+169,158,Wunnummin Lake

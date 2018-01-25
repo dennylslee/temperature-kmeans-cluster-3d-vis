@@ -1,0 +1,170 @@
+-3,-12,-12,Moose Creek Wells,41738
+-4,-15,-10,Algonquin Park East Gate,42967
+-4,-15,-10,Algonquin Park East Gate,42967
+-1,-9,-4,CFB Borden,29516
+-1,-11,-11,Bancroft,26799
+-10,-21,-5,Armstrong Airport,3987
+-9,-19,-3,Atikokan,10220
+-14,-24,-4,Attawapiskat Airport,3913
+-3,-13,-11,Bancroft,26799
+-1,-9,-5,Lake Simcoe Regional Airport,42183
+-4,-15,-11,Bancroft,26799
+0,-9,-8,CFB Trenton,5126
+-16,-26,-3,Big Trout Lake Airport,49488
+-2,-9,-5,,7595
+-3,-13,-7,Muskoka Airport,30186
+0,-8,-1,Toronto Pearson Int'l Airport,51459
+0,-7,2,Brantford Municipal Airport,53378
+-1,-9,-11,Brockville,47567
+-4,-13,-7,Muskoka Airport,30186
+0,-8,-2,Burlington Lift Bridge,7868
+0,-8,-1,Toronto Pearson Int'l Airport,51459
+-1,-8,0,Region of Waterloo Int'l Airport,48569
+-7,-19,-7,Chapleau Airport,53602
+1,-6,2,Chatham-Kent,52118
+0,-9,-6,Cobourg,7870
+-10,-21,-9,Timmins Victor Power Airport,50460
+-1,-9,-5,Collingwood,10955
+-3,-12,-12,Saint-Anicet,10982
+-4,-15,-12,Garrison Petawawa,47527
+-8,-19,-7,Thunder Bay Airport,30682
+-11,-21,-3,Dryden Airport,48869
+-4,-13,-7,Parry Sound Harbour,32128
+0,-6,-2,Mount Forest,7844
+-12,-22,-4,Ear Falls,27865
+-8,-17,-11,Earlton Airport,49489
+-4,-12,-8,,7595
+-13,-23,-5,Moosonee Airport,30242
+2,-5,-1,,4635
+-9,-19,-2,Fort Frances,46507
+-18,-27,-6,Fort Severn Airport,51219
+-1,-9,-5,,10903
+-1,-7,2,Goderich,7747
+-7,-19,-13,,50460
+-2,-9,-3,Gore Bay-Manitoulin Airport,48788
+-3,-13,-7,Muskoka Airport,30186
+-1,-8,-10,Kingston Airport,47267
+-6,-15,-12,Greater Sudbury Airport,50840
+-10,-21,-4,Cameron Falls,27674
+-11,-23,-6,Geraldton Airport,4003
+-11,-23,-6,Geraldton Airport,4003
+-1,-8,0,Guelph Turfgrass,45407
+-10,-21,-5,Armstrong Airport,3987
+0,-7,0,Hamilton Munro Int'l Airport,49908
+-3,-13,-11,Bancroft,26799
+0,-8,-1,Toronto Pearson Int'l Airport,51459
+0,-7,2,Hamilton Munro Int'l Airport,49908
+-4,-12,-14,Montréal-Mirabel Int'l Airport,5616
+-10,-21,-3,Nagagami,7633
+-11,-23,-2,Nagagami,7633
+-3,-13,-7,Muskoka Airport,30186
+-11,-21,-3,Dryden Airport,29368
+-8,-19,-7,Thunder Bay Airport,30682
+-3,-13,-11,Bancroft,26799
+-10,-21,-6,Kapuskasing Airport,52604
+-1,-11,-9,Peterborough Municipal Airport,29906
+-1,-11,-9,Peterborough Municipal Airport,29906
+-1,-9,-13,Kemptville,27534
+-11,-19,-4,Kenora Airport,51137
+-2,-9,-8,Killarney,8997
+0,-6,2,Goderich,7747
+-1,-8,-9,Kingston Airport,47267
+-8,-17,-12,Kirkland Lake,27535
+-1,-8,0,Region of Waterloo Int'l Airport,48569
+-3,-11,-2,Lake Superior Provincial Park,51958
+0,-7,2,Sarnia Chris Hadfield Airport,44004
+-14,-24,-4,Lansdowne House Airport,10244
+1,-6,3,Harrow AAFC,30266
+2,-5,0,Vineland Station,31367
+0,-7,2,London Int'l Airport,10999
+-9,-20,-1,Marathon Airport,52338
+0,-7,-3,Toronto Buttonville Municipal Airport,53678
+-1,-9,-5,Collingwood,10955
+-9,-19,-3,Atikokan,10220
+0,-8,-1,Toronto Pearson Int'l Airport,51459
+-3,-11,-1,Wawa Airport,52818
+-13,-23,-5,Moosonee Airport,48950
+-3,-12,-7,,4320
+-1,-8,0,Mount Forest,7844
+-3,-13,-7,Muskoka Airport,48368
+-1,-9,-3,Egbert,27604
+0,-7,-4,Toronto Buttonville Municipal Airport,53678
+2,-5,-1,St. Catharines Airport,50131
+-9,-20,-4,Cameron Falls,27674
+0,-7,3,Delhi,27528
+-6,-14,-11,North Bay Airport,52318
+-1,-7,-2,Mount Forest,7844
+0,-8,-1,Burlington Lift Bridge,7868
+-14,-24,-4,Ogoki Post Airport,52898
+-1,-9,-2,Mono Centre,51938
+-1,-9,-5,Lake Simcoe Regional Airport,42183
+0,-7,-4,Oshawa Executive Airport,48649
+-4,-12,-13,Ottawa Macdonald-Cartier Int'l Airport,49568
+-4,-12,-13,Ottawa Macdonald-Cartier Int'l Airport,49568
+0,-6,-1,Wiarton Airport,53139
+-3,-13,-11,Algonquin Park East Gate,42967
+-3,-13,-6,Parry Sound Harbour,32128
+-16,-25,-6,Peawanuck Airport,10197
+-4,-15,-12,Garrison Petawawa,47527
+-4,-15,-12,Garrison Petawawa,47527
+-1,-11,-9,Peterborough Municipal Airport,48952
+0,-7,-4,Oshawa Executive Airport,4996
+-14,-23,-4,Pickle Lake Airport,3920
+-14,-25,-4,Red Lake Airport,52419
+-3,-13,-7,Muskoka Airport,30186
+2,-5,-1,,9005
+0,-6,-1,Wiarton Airport,53139
+0,-7,-3,Uxbridge,50637
+-1,-8,-8,CFB Trenton,5126
+0,-9,-8,CFB Trenton,5126
+-12,-22,-4,Red Lake Airport,52419
+-4,-15,-12,Garrison Petawawa,47527
+0,-7,-4,Toronto Buttonville Municipal Airport,53678
+1,-6,-2,,32473
+1,-6,-2,Erieau,9006
+-16,-26,-3,Big Trout Lake Airport,49488
+-14,-25,-2,Sandy Lake Airport,50723
+0,-7,2,Sarnia Chris Hadfield Airport,48373
+0,-6,-1,Wiarton Airport,53139
+-3,-11,-5,Sault Ste. Marie Airport,50092
+-11,-21,-3,Sioux Lookout Airport,51138
+-3,-12,-13,Kemptville,27534
+-1,-9,-2,Mono Centre,51938
+0,-7,3,Delhi,27528
+-11,-21,-3,Sioux Lookout Airport,51138
+-11,-19,-4,Kenora Airport,51137
+-3,-12,-13,Kemptville,27534
+0,-6,-1,Wiarton Airport,53139
+2,-5,4,St. Catharines Airport,50131
+1,-6,1,London Int'l Airport,10999
+-2,-11,-8,CFB Trenton,5126
+-1,-7,2,London Int'l Airport,10999
+0,-7,1,London Int'l Airport,10999
+-6,-15,-11,Greater Sudbury Airport,50840
+-2,-11,-10,Kingston Airport,47267
+-8,-17,-11,Earlton Airport,49489
+-9,-20,-1,Marathon Airport,52338
+-7,-17,-7,Thunder Bay Airport,30682
+0,-7,3,Delhi,27528
+-10,-21,-9,Timmins Victor Power Airport,50460
+0,-6,-3,,45607
+1,-7,-1,Toronto Pearson Int'l Airport,51459
+1,-7,-1,Toronto City Centre Airport,48549
+0,-9,-8,CFB Trenton,5126
+-9,-19,-6,Upsala,4057
+0,-7,-4,Toronto Buttonville Municipal Airport,53678
+2,-5,0,Vineland Station,31367
+0,-6,-2,Mount Forest,7844
+-7,-18,-1,Wawa Airport,52818
+-14,-24,-4,Lansdowne House Airport,10244
+2,-5,4,Welland-Pelham,44283
+-6,-14,-11,North Bay Airport,50839
+-1,-9,-10,Kingston Airport,47267
+0,-7,-4,Oshawa Executive Airport,4996
+-7,-18,-1,Wawa Airport,52818
+0,-6,-1,Wiarton Airport,53139
+-3,-12,-13,Kemptville,27534
+1,-6,3,Windsor Airport,52838
+-1,-7,0,Mount Forest,7844
+0,-7,1,London Int'l Airport,10999
+-14,-23,-3,Big Trout Lake Airport,49488
