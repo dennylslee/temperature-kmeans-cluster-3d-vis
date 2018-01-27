@@ -76,4 +76,4 @@ The package used for plotting the map is [Basemap](https://matplotlib.org/basema
 
 The interctive and scroll-abilty of the 3D plot comes nicely with matplotlib capability. 
 
-![image stack layer]()
+![image stack layer](https://github.com/dennylslee/temperature-kmeans-cluster-3d-vis/blob/master/weather_vis_panel.png)
