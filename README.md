@@ -1,16 +1,16 @@
 # Introduction
 
-This project's objectives are to collect instantaneous temperature as reported from government of Canada website for all the weather stations from the province of Ontario. It then cluster the temperature readings into 4 cluster using simple K-means.  3D scatter plots are generated using matplotlib.  The project is written with Python 2.7.
+This project's objectives are to collect instantaneous temperature as reported from government of Canada website for all the weather stations from the province of Ontario. It then clusters the temperature readings into 4 clusters using simple K-means.  3D scatter plots are generated using matplotlib.  The project is written with Python 2.7.
 
-Example temperature reported from the government website [here](https://weather.gc.ca/city/pages/on-82_metric_e.html)
+Example temperature as reported from the government website can be found [here](https://weather.gc.ca/city/pages/on-82_metric_e.html)
 
-The temperature readings are first scrape from the website using regex. The collected data are stored in a local csv file.  The following is responsible the data scraping function.   
+The temperature readings are first scraped from the website using regex. The collected data are stored in a local csv file.  The following is responsible the data scraping function.  Obviously scraping website is not a recommended production approach due to its inflexibility to adapt changes.
 
-weather_city_crawler.py
+	weather_city_crawler.py
 
 The data cleansing, K-means clustering, and graphical plots are in this file:
 
-weather_station_processing
+	weather_station_processing
 
 ## Multi threading experiment
 
@@ -33,7 +33,6 @@ centroids = kmeans.cluster_centers_
 labels = kmeans.labels_
 
 ```
-
 
 Since the cluster result from Kmeans are simply separation. There is no inherent ranking of any sort from the sklearn method.  Therefore the 4 resulting clusters need to sorted accroding to their average temperature and apply the correct color coding. 
 
