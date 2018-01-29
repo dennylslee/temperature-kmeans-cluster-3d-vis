@@ -10,7 +10,7 @@ The temperature readings are first scraped from the website using regex. The col
 
 The data cleansing, K-means clustering, and graphical plots are in this file:
 
-	weather_station_processing
+	weather_station_processing.py
 
 ## Multi threading experiment
 
