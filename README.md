@@ -4,7 +4,7 @@ This project's objectives are to collect instantaneous temperature as reported f
 
 Example temperature as reported from the government website can be found [here](https://weather.gc.ca/city/pages/on-82_metric_e.html)
 
-The temperature readings are first scraped from the website using regex. The collected data are stored in a local csv file.  The following is responsible the data scraping function.  Obviously scraping website is not a recommended production approach due to its inflexibility to adapt changes.
+The temperature readings are first scraped from the website using regex. The collected data are stored in a local csv file.  The following is responsible for the data scraping function.  Obviously scraping website is not a recommended production approach due to its inflexibility to adapt to changes.
 
 	weather_city_crawler.py
 
@@ -14,7 +14,7 @@ The data cleansing, K-means clustering, and graphical plots are in this file:
 
 ## Multi threading experiment
 
-The "w_thread" using build in python multi-threading. It reduced the overall crawling speed marginally (~10-20% gain).  The modest result is deal to the python inherent limitation called Global Interpreter Lock (GIL).
+The "w_thread" file uses the built-in python multi-threading support. It reduced the overall crawling speed marginally (~10-20% gain).  The modest result is due to python's inherent limitation called Global Interpreter Lock (GIL).
 
 ## K-means clustering
 
@@ -34,7 +34,7 @@ labels = kmeans.labels_
 
 ```
 
-Since the cluster result from Kmeans are simply separation. There is no inherent ranking of any sort from the sklearn method.  Therefore the 4 resulting clusters need to sorted accroding to their average temperature and apply the correct color coding. 
+Since the cluster results from Kmeans are simply separation. There is no inherent ranking of any sort from the sklearn method.  Therefore the 4 resulting clusters need to sorted accroding to their average temperature and apply the correct color coding. 
 
 
 ```python
@@ -74,6 +74,6 @@ The resulting clusters are plotted on the right hand side whereas the top left p
 
 The package used for plotting the map is [Basemap](https://matplotlib.org/basemap/)
 
-The interctive and scroll-abilty of the 3D plot comes nicely with matplotlib capability. 
+The interctive and scroll-abilty of the 3D plot comes nicely with matplotlib's capability. 
 
 ![image stack layer](https://github.com/dennylslee/temperature-kmeans-cluster-3d-vis/blob/master/weather_vis_panel.png)
